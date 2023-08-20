@@ -15,7 +15,9 @@
 | 📄 Document Viewer | [Zathura](https://github.com/pwmt/zathura)                                                                                  |
 
 ## Gallery
-![Screenshot-2023-08-20_13:07:16](https://github.com/mashhoor-ahdal/dotfiles/assets/101206478/92b989ae-8b13-4d7c-a826-c27892208924)
+![Hyprland design ideas](https://github.com/mashhoor-ahdal/dotfiles/assets/101206478/92b989ae-8b13-4d7c-a826-c27892208924)
+![waybar design ideas](https://github.com/mashhoor-ahdal/dotfiles/assets/101206478/e37e1b54-8802-42cb-baba-90a4559ec825)
+
 
 
 ## Credits
